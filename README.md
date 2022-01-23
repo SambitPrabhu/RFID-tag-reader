@@ -1,6 +1,6 @@
 # Keypad Door Lock
-Recruitment project for 1st yearites
-The first project was given to us as *RFID Tag Reader*, But its simulation was not possible on TinkerCad therefore we were given a different project : *Keypad Door Lock*
+ArIES recruitment project for 1st year students
+We were initially given the project *RFID Tag Reader* but because its simulation was not possible on TinkerCad, we were given a different project : *Keypad Door Lock*
 
                                                            *Problem Statement*
 Nowadays, our society is facing a lot of issues and one of the prime issues to ponder upon is security. People tend to look for a solution that is reliable, sturdy, long-lasting, and also cost-effective. Modern technologies are expensive and therefore there are very few affordable security solutions in the market for people to buy for making their homes and valuables secure.
